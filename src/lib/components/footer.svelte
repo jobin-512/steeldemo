@@ -98,13 +98,50 @@
                 </div>
             </div>
         </div>
-        <div>
-            <p class="font-semibold text-2xl">About Company</p>
-            <p>Beginning around 1980, the Mainee Steel Works Pvt Ltd.has been synonym of Quality and Services. We are Pinoeer in Designing, Development and Services.</p>
+         <div class="space-y-4">
+            <p class="font-semibold text-2xl">Our Company</p>
+            <div class="grid gap-4 text-xl">
+                <div>
+                    <i class="ph-fill ph-arrow-fat-right"></i>
+                    <a href="/">Why Choose Us</a>
+                </div>
+                <div>
+                    <i class="ph-fill ph-arrow-fat-right"></i>
+                    <a href="/">Management Team</a>
+                </div>
+                <div>
+                    <i class="ph-fill ph-arrow-fat-right"></i>
+                    <a href="/">Award & Accolade3s</a>
+                </div>
+                <div>
+                    <i class="ph-fill ph-arrow-fat-right"></i>
+                    <a href="/">Event Gallary</a>
+                </div>
+                <div>
+                    <i class="ph-fill ph-arrow-fat-right"></i>
+                    <a href="/">Media Galary</a>
+                </div>
+                  <div>
+                    <i class="ph-fill ph-arrow-fat-right"></i>
+                    <a href="/">Video Gallary</a>
+                </div>
+                  <div>
+                    <i class="ph-fill ph-arrow-fat-right"></i>
+                    <a href="/">FAQ</a>
+                </div>
+            </div>
         </div>
         <div>
-            <p class="font-semibold text-2xl">About Company</p>
-            <p>Beginning around 1980, the Mainee Steel Works Pvt Ltd.has been synonym of Quality and Services. We are Pinoeer in Designing, Development and Services.</p>
+            <p class="font-semibold text-2xl">Reach Us</p>
+            <div>
+                  
+                    <a href="/" class="text-2xl">0120-499999</a>
+                       <div>
+                  
+                    <a href="/" class="text-2xl mt-10">nfo@maineesteelworks.com</a>
+                    <p class="text-2xl">Mainee Steel Works(P)LTD.<br/>A-109,Sector-65, Near Mamura Chowk Noida-201301,<br/>Uttar Pradesh,India</p>
+                </div>
+                </div>
         </div>
     </div>
 </footer>
